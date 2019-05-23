@@ -1,0 +1,12 @@
+﻿
+.img-input-preview {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+
+.img-input-preview img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
